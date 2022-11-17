@@ -82,15 +82,15 @@ nav a:hover {
 footer{
     background-color: #0a0908;
     color: beige;
-    text-decoration: none;
     font-size: 1.2em;}
 
 footer a{
     background-color: #FFFFFF;
     color:#0a0908;
+    text-decoration: none;
 }
 footer a:hover{
-    color: #FFFFFF;
+    color: #22333b;
 }
  
 footer p a:hover {
