@@ -81,11 +81,11 @@ nav a:hover {
 
 footer{
     background-color: #0a0908;
-    color: beige;
+    color: #0a0908;
     font-size: 1.2em;}
 
 footer a{
-    background-color: #FFFFFF;
+    background-color: #c6ac8f;
     color:#0a0908;
     text-decoration: none;
 }
