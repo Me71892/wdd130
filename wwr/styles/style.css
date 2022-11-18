@@ -21,7 +21,7 @@ nav a{
 }
 
 h4{
-    color:#FFFFFF;
+    color:#0a0908;
 
 }
 main section
@@ -34,7 +34,6 @@ text-align: center;
     background-color:#0a0908; 
 }
 
-
 header {
     background-color:#396E94;
 }
@@ -45,7 +44,7 @@ nav a:hover {
 }
 
 .book {
-    background-color:#0a0908 ;
+    background-color:#22333b ;
     color:#FFFFFF;
     text-decoration: none;
 
@@ -80,10 +79,12 @@ nav a:hover {
 }
 
 footer{
-    background-color: #0a0908;
+    background-color:#0a0908;
     color: #0a0908;
     font-size: 1.2em;}
-
+footer p{
+    color:#FFFFFF
+}
 footer a{
     background-color: #c6ac8f;
     color:#0a0908;
@@ -108,5 +109,5 @@ footer p a:hover {
 }
 
 .home-title{
-    color: beige;
+    color: #0a0908;
 }
