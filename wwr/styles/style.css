@@ -12,6 +12,10 @@ nav {
     display: flex;
     justify-content: space-around;
 }
+h1
+{
+    text-align: center;
+}
 #hero-msg h1
 {text-align: center;
 }
@@ -154,6 +158,24 @@ body {
 footer .social img { padding-top: 15px;
 }
 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+div #river-img
+{
+ align-self: center;
+ grid-area: 2 / 2 / 3 / 4;
+}
+.rafting-img
+{
+    margin: 200px 0;
+    grid-area: 2 / 2 / 3 / 4;
+    align-self: center;
+}
 .rivers-card{
     margin: 200px 0;
     grid-area: 2 / 2 / 3 / 4;
@@ -187,7 +209,19 @@ footer .social img { padding-top: 15px;
     grid-row: 6/7;
     box-shadow: 5px 5px 10px #6f7364;
 }
-
+.msg2{
+    background-color: #FFFFFF;
+    line-height: 1.5em;
+    padding: 35px;
+    grid-column: 6/10;
+    grid-row: 6/7;
+}
+.msg3
+{
+    font-weight: bold;
+    align-self: center;
+    text-align: center;
+}
 .card-img{
     border: 10px solid #d9c2a3;
     transition: transform .5s;
