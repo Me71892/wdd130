@@ -99,7 +99,7 @@ nav a:hover {
     padding-bottom: 15px;
 }
 
-footer{
+footer {
     background-color:#0a0908;
     color: #0a0908;
     font-size: 1.2em;
@@ -109,6 +109,7 @@ footer{
     justify-content: space-around;
     align-items: center;
 }
+
 footer p{
     color:#FFFFFF
 }
@@ -135,7 +136,6 @@ footer p a:hover {
 #hero-img{
     width: 100%;
 }
-
 .home-title{
     color: #FFFFFF;
     font-family: 'Rock Salt', 'Raleway', sans-serif;
@@ -157,14 +157,12 @@ body {
 
 footer .social img { padding-top: 15px;
 }
-
 .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-  }
-  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 div #river-img
 {
  align-self: center;
@@ -221,6 +219,7 @@ div #river-img
     font-weight: bold;
     align-self: center;
     text-align: center;
+    padding: 35px;
 }
 .card-img{
     border: 10px solid #d9c2a3;
