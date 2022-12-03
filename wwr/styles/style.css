@@ -142,7 +142,12 @@ footer p a:hover {
     font-size: 2em;
     margin-top: 10px;
 }
-
+.home-title2{
+    color: #0a0908;
+    font-family: 'Rock Salt', 'Raleway', sans-serif;
+    font-size: 2em;
+    margin-top: 10px;
+}
 h2 {
     margin: 0;
 }
