@@ -49,7 +49,7 @@ background-color: #91f9e5ff;
 line-height: 1.5em;
 margin-top: 50px; 
 padding: 35px;
-grid-column: 6/10;
+grid-column: 5/10;
 grid-row: 6/7;
 }
 
@@ -73,7 +73,7 @@ header {
 
 nav a:hover {
     background-color: #3f4531ff;
-    color: beige;
+    color: white;
 }
 
 footer {
@@ -92,14 +92,14 @@ footer p{
 }
 
 footer a{
-    background-color: #396E94;
-    color:#5fdd9dff;
+    background-color: #5fdd9dff;
+    color: #3f4531ff;
     text-decoration: none;
 }
 
 footer a:hover{
     color: #3f4531ff;
-    background-color: #396E94;
+    background-color: #5fdd9dff;
 }
  
 footer p a:hover {
