@@ -73,7 +73,7 @@ header {
 
 nav a:hover {
     background-color: #3f4531ff;
-    color: white;
+    color: #FFFFFF;;
 }
 
 footer {
@@ -162,7 +162,7 @@ height: auto;
     opacity: 1;}
   
   .text {
-    color: white;
+    color: #FFFFFF;
     font-size: 20px;
     position: absolute;
     top: 50%;
