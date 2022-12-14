@@ -79,7 +79,6 @@ nav a:hover {
 }
 
 footer {
-    grid-template-columns: 50px 50px 50px 50px;
     background-color:#3f4531ff;
     font-size: 1.2em;
     padding: 10px ;
