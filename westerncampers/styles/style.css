@@ -79,6 +79,7 @@ nav a:hover {
 }
 
 footer {
+    grid-template-columns: 50px 50px 50px 50px;
     background-color:#3f4531ff;
     font-size: 1.2em;
     padding: 10px 50px;
@@ -91,12 +92,21 @@ footer {
 footer p{
     color:#91f9e5ff;
     font-family: 'Raleway', 'Open Sans', sans-serif;
-}
+    grid-column-start: 1;
+    grid-column-end: 2;
 
+
+}
+footer p a{
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
 footer a{
     background-color: #5fdd9dff;
     color: #3f4531ff;
     text-decoration: none;
+    grid-column-start: 3;
+    grid-column-end: 4;
 }
 
 footer a:hover{
