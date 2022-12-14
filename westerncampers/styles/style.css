@@ -82,7 +82,7 @@ footer {
     grid-template-columns: 50px 50px 50px 50px;
     background-color:#3f4531ff;
     font-size: 1.2em;
-    padding: 10px 50px;
+    padding: 10px ;
     margin-top: 50px; 
     display: flex;
     justify-content: space-around;
@@ -94,13 +94,13 @@ footer p{
     font-family: 'Raleway', 'Open Sans', sans-serif;
     grid-column-start: 1;
     grid-column-end: 2;
-
-
 }
+
 footer p a{
     grid-column-start: 2;
     grid-column-end: 3;
 }
+
 footer a{
     background-color: #5fdd9dff;
     color: #3f4531ff;
