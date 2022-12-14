@@ -38,7 +38,9 @@ text-align: center;
 font-family: 'Open Sans', sans-serif;
 }
 
-
+.pos{
+    padding-left: 10px;
+}
 .space{
     padding-top:  20px;
 }
